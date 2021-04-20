@@ -4,7 +4,7 @@
 ### Usage: Send any file, and the bot will upload it to MixDrop.co, File.io
 
 ### Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/02928shshwhwj/https://github.com/02928shshwhwj/TelegramFiletoCloud)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/02928shshwhwj/TelegramFiletoCloud)
 
 # Installation
 #### Clone 
