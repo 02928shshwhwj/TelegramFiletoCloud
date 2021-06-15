@@ -11,6 +11,10 @@ http://dst.mtn.net.sy:1935/5f843d5bd815299/myStream.stream/playlist.m3u8?t=60be8
 http://dst.mtn.net.sy:1935/5f843d2ac0e8c13/smil:myStream.smil/playlist.m3u8?t=60be8e0fcc7d4
 #EXTINF:0,مباريات6
 http://dst.mtn.net.sy:1935/5d5a8190120d985/smil:myStream.smil/playlist.m3u8?t=60be8e0fcc7d4
+#EXTINF:0,مباريات8
+http://dst.mtn.net.sy:1935/60b5fe27c32c351/smil:myStream.smil/playlist.m3u8?t=60be8e0fcc7d4
+#EXTINF:0,مباريات7
+http://dst.mtn.net.sy:1935/60b5fe15bd49671/smil:myStream.smil/playlist.m3u8?t=60be8e0fcc7d4
 #EXTINF:0,Ksa Sport 2
 http://dst.mtn.net.sy:1935/5f1ac4ad1e9c566/smil:myStream.smil/playlist.m3u8?t=60be8e0fcc7d4
 #EXTINF:0,OSN kids
